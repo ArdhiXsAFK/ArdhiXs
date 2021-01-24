@@ -7,7 +7,7 @@
  <details>
  <summary> KENALAN KUY BRO!</summary>
 
- 👤 *Ardhi Xsquerpant'S*
+ 👤 *Ardhi Xsquerpant'S* 👤
 
 * Github: [@ardhixsquerpants](https://github.com/ardhixsquerpants)
 
