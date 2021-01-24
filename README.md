@@ -1,5 +1,13 @@
 ### Hi there 👋
+<div align="center">
+ <details>
+ <summary>🥟 KENALAN KUY BRO!</summary>
 
+ [INSTAGRAM](https://www.instagram.com/ardhixsquerpants/)
+ [WHATSAPP](Wa.me/6288294052009/)
+ 
+</details>
+</div>
 <!--
 **ardhixsquerpants/ArdhiXsquerpantS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
