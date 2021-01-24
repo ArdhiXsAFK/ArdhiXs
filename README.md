@@ -13,7 +13,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ardhixsquerpants.ardhixsquerpants&style=flat-square&color=0088cc)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ardhixsquerpants/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ardhixsquerpants.phpnet.us/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://ardhixsquerpants.phpnet.us/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ardhixsquerpants)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-%808080?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/6288294052009)
 
