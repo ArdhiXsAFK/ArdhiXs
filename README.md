@@ -2,7 +2,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ardhixsquerpants&show_icons=true&theme=radical)<br>
 <div align="center">
  <details>
- <summary>🥟 KENALAN KUY BRO!</summary>
+ <summary> KENALAN KUY BRO!</summary>
 
  [INSTAGRAM](https://www.instagram.com/ardhixsquerpants/)
  [WHATSAPP](https://wa.me/6288294052009)
