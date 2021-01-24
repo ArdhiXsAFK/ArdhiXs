@@ -19,7 +19,7 @@
  
 </details>
 </div>
-![](https://visitor-badge.glitch.me/badge?page_id=ardhixsquerpants&style=flat-square&color=0088cc)
+![](https://visitor-badge.glitch.me/badge?page_id=ardhixsquerpants.ardhixsquerpants&style=flat-square&color=0088cc)
 <!--
 **ardhixsquerpants/ArdhiXsquerpantS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
