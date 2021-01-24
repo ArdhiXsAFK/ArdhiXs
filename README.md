@@ -9,7 +9,7 @@
 
  👤 *Ardhi Xsquerpant'S* 👤
 
-* Github: [@ardhixsquerpants](https://github.com/ardhixsquerpants)
+[@ardhixsquerpants](https://github.com/ardhixsquerpants)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ardhixsquerpants/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ardhixsquerpants.phpnet.us/)
