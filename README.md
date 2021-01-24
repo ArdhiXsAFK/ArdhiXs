@@ -10,7 +10,7 @@
  👤 *Ardhi Xsquerpant'S* 👤
 
 [@ardhixsquerpants](https://github.com/ardhixsquerpants)
-[](https://visitor-badge.glitch.me/badge?page_id=ardhixsquerpants.ardhixsquerpants&style=flat-square&color=0088cc)
+![](https://visitor-badge.glitch.me/badge?page_id=ardhixsquerpants.ardhixsquerpants&style=flat-square&color=0088cc)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ardhixsquerpants/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ardhixsquerpants.phpnet.us/)
