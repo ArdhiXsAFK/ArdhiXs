@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ardhixsquerpants&show_icons=true&theme=radical)<br>
 <div align="center">
  <details>
  <summary>🥟 KENALAN KUY BRO!</summary>
