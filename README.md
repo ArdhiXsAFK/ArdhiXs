@@ -4,7 +4,7 @@
  <summary>🥟 KENALAN KUY BRO!</summary>
 
  [INSTAGRAM](https://www.instagram.com/ardhixsquerpants/)
- [WHATSAPP](Wa.me/6288294052009/)
+ [WHATSAPP](Wa.me/6288294052009)
  
 </details>
 </div>
