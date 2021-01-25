@@ -1,5 +1,5 @@
 ### Hi Bro!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Ardhi Xsquerpant'S](https://github.com/ardhixsquerpants/)
-[![Ardhi Xsquerpant'S github stats](https://github-readme-stats.vercel.app/api?username=ardhixsquerpants&show_icons=true&hide_border=true&hide=issues)](https://github.com/ardhixsquerpants)
+[![Ardhi Xsquerpant'S github stats](https://github-readme-stats.vercel.app/api?username=ardhixsquerpants&show_icons=true&hide_border=true&hide=issues)](https://github.com/ardhixsquerpants)width="900" />
 <br>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="Dino Game" width="900" />
 <br>
