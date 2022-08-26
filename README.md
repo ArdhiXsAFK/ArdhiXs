@@ -1,5 +1,5 @@
-### Hi Bro!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Ardhi Xsquerpant'S](https://github.com/ardhixsquerpants/)
-[![ArdhiXs github stats](https://github-readme-stats.vercel.app/api?username=ArdhiXs&show_icons=true&hide_border=true&hide=issues)](https://github.com/ardhixsquerpants)
+### Hi Bro!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [ArdhiXs](https://github.com/ArdhiXs/)
+[![ArdhiXs github stats](https://github-readme-stats.vercel.app/api?username=ArdhiXs&show_icons=true&hide_border=true&hide=issues)](https://github.com/ArdhiXs)
 <br>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="Dino Game" width="250" />
 <br>
@@ -9,10 +9,10 @@
 
  👤 *ArdhiXS* 👤
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ardhixsquerpants/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ardhixs_/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/kepo.lo.39566)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://ardhixsquerpants.phpnet.us/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ardhixsquerpants)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](www.ardhixs.my.id/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ArdhiXs)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-%808080?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/6288294052009)
 
  
