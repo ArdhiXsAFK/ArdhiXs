@@ -5,8 +5,6 @@
 <br>
 <div align="center">
 
-![](https://visitor-badge.glitch.me/badge?page_id=ArdhiXs)
-
 ---
  <details>
  <summary> KENALAN KUY BRO!</summary>
@@ -21,6 +19,9 @@
 
  
 </details>
+
+![](https://visitor-badge.glitch.me/badge?page_id=ArdhiXs)
+
 </div>
 <!--
 **ardhixsquerpants/ArdhiXsquerpantS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
