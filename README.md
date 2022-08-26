@@ -1,5 +1,5 @@
 ### Hi Bro!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Ardhi Xsquerpant'S](https://github.com/ardhixsquerpants/)
-[![Ardhi Xsquerpant'S github stats](https://github-readme-stats.vercel.app/api?username=ardhixsquerpants&show_icons=true&hide_border=true&hide=issues)](https://github.com/ardhixsquerpants)
+[![ArdhiXs github stats](https://github-readme-stats.vercel.app/api?username=ardhixsquerpants&show_icons=true&hide_border=true&hide=issues)](https://github.com/ardhixsquerpants)
 <br>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="Dino Game" width="900" />
 <br>
@@ -7,9 +7,7 @@
  <details>
  <summary> KENALAN KUY BRO!</summary>
 
- 👤 *Ardhi Xsquerpant'S* 👤
-
-![](https://visitor-badge.glitch.me/badge?page_id=ardhixsquerpants.ardhixsquerpants&style=flat-square&color=0088cc)
+ 👤 *ArdhiXS* 👤
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ardhixsquerpants/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/kepo.lo.39566)
