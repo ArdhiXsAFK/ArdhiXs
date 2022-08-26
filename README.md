@@ -4,6 +4,7 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="Dino Game" width="260" />
 <br>
 <div align="center">
+
 ![](https://visitor-badge.glitch.me/badge?page_id=ArdhiXs)
 
 ---
