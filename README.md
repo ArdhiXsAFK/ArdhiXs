@@ -4,12 +4,6 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="Dino Game" width="260" />
 <br>
 <div align="center">
-
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-![Metrics](https://metrics.lecoq.io/ArdhiXs?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
-
-
 ![](https://visitor-badge.glitch.me/badge?page_id=ArdhiXs)
 
 ---
