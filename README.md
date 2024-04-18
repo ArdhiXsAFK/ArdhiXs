@@ -4,9 +4,7 @@
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="Dino Game" width="280" />
 <br> -->
 <div align="center">
-<p align="center">
 <img src="https://i.imgur.com/5hJCG2f.jpg/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="200" height="300"/>
-</p>
  
 ---
  <details>
