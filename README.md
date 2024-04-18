@@ -4,7 +4,7 @@
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="Dino Game" width="280" />
 <br> -->
 <div align="center">
-  <a href="https://github.com/ArdhiXs"><img src="https://i.ibb.co/gtJcJkV/the-silent-voice-landscape.jpg" /><a>
+<!-- <a href="https://github.com/ArdhiXs"><img src="https://i.ibb.co/gtJcJkV/the-silent-voice-landscape.jpg" /><a> -->
 
 ---
  <details>
