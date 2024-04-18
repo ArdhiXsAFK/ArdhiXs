@@ -4,8 +4,10 @@
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="Dino Game" width="280" />
 <br> -->
 <div align="center">
-<!-- <a href="https://github.com/ArdhiXs"><img src="https://i.ibb.co/gtJcJkV/the-silent-voice-landscape.jpg" /><a> -->
-
+<p align="center">
+<img src="https://i.imgur.com/5hJCG2f.jpg/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="200" height="300"/>
+</p>
+ 
 ---
  <details>
  <summary> KENALAN KUY BRO!</summary>
